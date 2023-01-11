@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shamaiem
-- 👀 I’m interested in looking at current world problems through a Data Science lens.
-- 🌱 I’m currently learning C++, Python, and R Programming Language.
-- 💞️ I’m looking to collaborate on documentation for C++ and Python
-- 📫 You can reach me at my official email address 📩 i202359@nu.edu.pk or on twitter  @shamaiem_
+- Hi, I’m shamaiem 👋
+- I’m a 3rd year computer science student at FAST National University pursuing a bachelors in Computer Science. 🎓
+- Currently working on Full-stack development (HTML, CSS, JavaScript) 🌐
+- Exploring C++, Python, and Java. 🌱
+- You can reach me at my official email address shamaiemshahid@gmail.com 📫 
 
 <!---
 shamaiem/shamaiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
