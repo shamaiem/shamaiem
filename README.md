@@ -30,14 +30,4 @@
 <!--- Linux --->
 <img align="Left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
-          
-          
-          
-   
-          
-          
-
-<!---
-shamaiem/shamaiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
