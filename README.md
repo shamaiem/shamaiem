@@ -1,7 +1,8 @@
 # Shamaiem Shahid 🌱
 **` Digital Craftsman | Developer | Writer | Second-Brain Enthusiast `**
 
-<p> I’m a junior computer science student 🎓 who looks at the world with wonder and curiosity; forever fascinated by the intricate web of technologies that we have laid out over the world. I thoroughly enjoy reading, watching, and listening about how technology is effecting the social fabric, globaization, communication, and each individual as we know it. Professionally speaking, I am currently working on full-stack development with a keen interest in dabbling with the creative element of understanding user design and user experience. Also working on exploring C++, Python, and Java. Still branching out and not limiting myself to one thing just yet; fully engorssed in the motto 'explore. explore. and explore'. </p>
+<p> I’m a junior computer science student 🎓 who looks at the world with wonder and curiosity; forever fascinated by the intricate web of technologies that we have laid out over the world. I thoroughly enjoy reading, watching, and listening about how technology is effecting the social fabric, globaization, communication, and each individual as we know it. Professionally speaking, I am currently working on data analytics with a keen interest in dabbling with the creative element of understanding user design and user experience. Also working on exploring C++, and Python.
+Fully engorssed in the motto 'explore. explore. and explore'. </p>
 
 ###### Feel free to reach out to me at my official email address shamaiemshahid@gmail.com 📫
 
