@@ -15,13 +15,9 @@ Fully engorssed in the motto 'explore. explore. and explore'. </p>
 <!--- CSS --->
 <img align="Left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <!--- JavaScript --->
-<!---
 <img align="Left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
---->
 <!--- Node.js --->
-<!---
 <img align="Left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
---->
 <!--- C++ --->
 <img align="Left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
 <!--- Python --->
@@ -29,6 +25,3 @@ Fully engorssed in the motto 'explore. explore. and explore'. </p>
 <!--- VS CODE --->
 <img align="Left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </br> 
-
-
-#
