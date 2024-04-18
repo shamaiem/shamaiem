@@ -17,7 +17,9 @@ Fully engorssed in the motto 'explore. explore. and explore'. </p>
 <!--- JavaScript --->
 <img align="Left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <!--- Rect --->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="Left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<!--- Angular --->
+<img align="Left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg"/>
 <!--- Node.js --->
 <img align="Left" alt="Node.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <!--- C++ --->
@@ -26,4 +28,7 @@ Fully engorssed in the motto 'explore. explore. and explore'. </p>
 <img align="Left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <!--- VS CODE --->
 <img align="Left" alt="VsCode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<!--- WebStorm --->
+<img align="Left" alt="WebStorm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+          
 </br> 
