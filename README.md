@@ -22,7 +22,7 @@ I enjoy turning messy datasets into clear insights, practical recommendations, a
      title="Microsoft Excel"
      width="30px"
      style="padding-right:10px;"
-     src="https://cdn.simpleicons.org/microsoftexcel/217346" />
+     src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" />
 
 <!-- SQL / MySQL -->
 <img align="left" alt="SQL" title="SQL / MySQL" width="30px"
