@@ -30,9 +30,9 @@ I enjoy turning messy datasets into clear insights, practical recommendations, a
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <!-- Tableau -->
-<img align="left" alt="Tableau" title="Tableau" width="30px"
+<img align="left" alt="Tableau" width="30px"
      style="padding-right:10px;"
-     src="https://cdn.simpleicons.org/tableau/E97627" />
+     src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/tableau-icon.svg" />
 
 <!-- Python -->
 <img align="left" alt="Python" title="Python" width="30px"
