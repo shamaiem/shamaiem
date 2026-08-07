@@ -17,7 +17,10 @@ I enjoy turning messy datasets into clear insights, practical recommendations, a
 
 ### Analytics Toolkit ⚒️
 <!-- Excel -->
-<img align="left" alt="Microsoft Excel" title="Microsoft Excel" width="30px"
+<img align="left"
+     alt="Microsoft Excel"
+     title="Microsoft Excel"
+     width="30px"
      style="padding-right:10px;"
      src="https://cdn.simpleicons.org/microsoftexcel/217346" />
 
